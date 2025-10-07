@@ -1,0 +1,1 @@
+The dynamic image slider is a simple web project that allows users to view multiple images in a smooth and interactive way.The slider automatically transition between images and users can also navigate manually using next and previous button. This makes it easier to showcase pictures,bannersor other visual content in a user friendly manual.
